@@ -52,7 +52,7 @@ scipy==1.6.2
     # via
     #   scikit-learn
     #   scikit-optimize
-six==1.15.0
+six==1.16.0
     # via
     #   cycler
     #   python-dateutil
