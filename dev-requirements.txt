@@ -131,7 +131,7 @@ six==1.15.0
     #   python-dateutil
     #   tox
     #   virtualenv
-sqlalchemy==1.4.11
+sqlalchemy==1.4.13
     # via -r requirements.txt
 threadpoolctl==2.1.0
     # via
@@ -142,7 +142,7 @@ toml==0.10.2
     #   pre-commit
     #   pytest
     #   tox
-tox==3.23.0
+tox==3.23.1
     # via -r dev-requirements.in
 urllib3==1.26.4
     # via requests
