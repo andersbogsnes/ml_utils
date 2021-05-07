@@ -56,7 +56,7 @@ six==1.15.0
     # via
     #   cycler
     #   python-dateutil
-sqlalchemy==1.4.13
+sqlalchemy==1.4.14
     # via ml_tooling (setup.py)
 threadpoolctl==2.1.0
     # via scikit-learn
